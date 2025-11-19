@@ -1,0 +1,46 @@
+
+# Take-home coding test - Property Agent Management
+
+
+This repository contains all the requested services for a full stack application. This uses Typescript.
+
+
+---
+
+## Repository Structure
+
+```
+take-home/
+├── api/  # Express + TypeScript backend (CRUD API)
+│   └── src/
+│       ├── data  # Data access layer + CRUD to in-memory
+│       ├── routes
+│       ├── types  # Type definitions
+│       └── server.ts  # ExpressJS server file
+├── docs/
+│   └── erd.md # Entity Relationship Diagram
+└── README.md
+```
+
+---
+
+## Run the API
+
+### 1. Install dependencies:
+
+```bash
+cd api
+npm install
+```
+
+### 2. Start the development server
+
+```bash
+npm run dev
+```
+
+### 3. Then the API will be available on port 3000
+
+```bash
+http://localhost:3000/api/agents
+```
