@@ -39,21 +39,22 @@ take-home/
 
 ### 1. Install dependencies:
 
-```bash
+```
 cd api
 npm install
 ```
 
 ### 2. Start the development server
 
-```bash
+```
 npm run dev
 ```
 
 ### 3. Then the API will be available on port 3000
 
-```bash
+```
 http://localhost:3000/api/agents
+```
 
 ---
 
@@ -61,20 +62,20 @@ http://localhost:3000/api/agents
 
 ### 1. Install dependencies:
 
-```bash
-cd eb
+```
+cd web
 npm install
 ```
 
 ### 2. Start the application
 
-```bash
+```
 npm run dev
 ```
 
 ### 3. Then the API will be available on port 3000
 
-```bash
+```
 http://localhost:5173
 
 ```
