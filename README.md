@@ -4,6 +4,12 @@
 
 This repository contains all the requested services for a full stack application. This uses Typescript.
 
+# Documentation
+
+[Entity Relationshp Diagram](docs/erd.md)
+
+[Stretch Goals](docs/stretch-goals.md)
+
 
 ---
 
